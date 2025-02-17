@@ -14,6 +14,9 @@ export default function Home() {
           priority
         />
         <ol>
+        <li>
+            테스트이다ㅏ앙아아ㅏ아아.
+          </li>
           <li>
             Get started by editing <code>src/app/page.tsx</code>.
           </li>
